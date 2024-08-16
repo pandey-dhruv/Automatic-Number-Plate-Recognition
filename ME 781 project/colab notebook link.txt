@@ -1,3 +1,0 @@
-Here is the link to the colab notebook for the testing part (with gradio and without gradio)
-Please open this colab notebook instead of the ipynb file submitted in this archive
-https://colab.research.google.com/drive/1TZk07u_hgd51GaTMHXRAWJqXZd8kQp2J?usp=sharing
